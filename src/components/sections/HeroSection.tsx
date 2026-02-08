@@ -30,15 +30,15 @@ export function HeroSection() {
           </div>
 
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black font-space leading-[0.9] tracking-tighter">
-            <span className="text-white">The</span>
+            <span className="text-white"></span>
             <br />
-            <span className="text-gradient">D'Verse</span>
+            <span className="text-gradient">Dhairya</span>
             <br />
-            <span className="text-white/80">Experience</span>
+            <span className="text-white/80">Shah</span>
           </h1>
 
           <p className="text-lg text-white/40 max-w-md leading-relaxed">
-            An immersive digital ecosystem where cinema, AI, gaming, and collaborative tools
+            A young aspirator creating ecosystems where cinema, AI, gaming, and collaborative tools
             converge into one unified creative universe.
           </p>
 
